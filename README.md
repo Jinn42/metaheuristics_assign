@@ -24,13 +24,13 @@ epsilon= 100 / 150 (different epsilon results in different result)
 ### For 38 cities:
 |map|fitness|
 |:---|:---|
-|<img width="150" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_map.png" />|<img width="150" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_fitness(1).png" />|
+|<img width="250" height="250" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_map.png" />|<img width="250" height="250" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_fitness(1).png" />|
 
 
 ### For 194 cities:
 |map|fitness|
 |:---|:---|
-|<img width="150" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_194_map.png" />|<img width="150" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_194_fitness.png" />|
+|<img width="250" height="250" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_194_map.png" />|<img width="250" height="250" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_194_fitness.png" />|
 
 ## Continuous Optimization:
 ### For the 6 functions, all algorithms are from spicy package, the selection of algorithm for each is based on the result of fitness
