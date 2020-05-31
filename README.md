@@ -5,6 +5,7 @@
 Let’s start with a few definitions, rephrased in the context of the TSP:
 
 Gene: a city (represented as (x, y) coordinates)
+
 Individual (aka “chromosome”): a single route satisfying the conditions above
 Population: a collection of possible routes (i.e., collection of individuals)
 Crossover: this crossover uses 3 parents, A and B provide the "genes", C is used to determine the shape	
