@@ -18,7 +18,8 @@ max_generation=300
 epsilon= 100 / 150 (different epsilon results in different result)
 
 ### Result of Fitness:
-![image](https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_194_result.png)
+<div align=center><img width="300" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_194_result.png"/></div>
+
 
 ### For 38 cities:
 ![image](https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_map.png)
