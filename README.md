@@ -18,11 +18,20 @@ max_generation=300
 epsilon= 100 / 150 (different epsilon results in different result)
 
 ### Result of Fitness:
-<img align=center width="500" height="100" 
-src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_194_result.png"/>
+<img width="500" height="100" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_194_result.png" />
 
 
 ### For 38 cities:
-![image](https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_map.png)
-![image](https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_fitness(1).png)
+|map|fitness|
+|:---|:---|
+|<img width="150" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_map.png" />|<img width="150" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_fitness(1).png" />|
+
+
+### For 194 cities:
+|map|fitness|
+|:---|:---|
+|<img width="150" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_194_map.png" />|<img width="150" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_194_fitness.png" />|
+
+
+
 
