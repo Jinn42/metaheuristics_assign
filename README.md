@@ -72,4 +72,4 @@ Search Space:  [-100, 100];
 ### F6:
 |D=50|D=500|
 |:---|:---|
-|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F6_D50.png" />|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F6_D500.png" />|
+|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F6_D50.png" />|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F6_D500(1).png" />|
