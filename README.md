@@ -22,3 +22,5 @@ epsilon= 100 / 150 (different epsilon results in different result)
 
 ### For 38 cities:
 ![image](https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_map.png)
+![image](https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_38_fitness(1).png)
+
