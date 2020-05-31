@@ -14,7 +14,7 @@ Preselection: To determine a better initial population rather than producing an 
 Resolve function: This function resolves (more or less) the crossings in a path by "twisting" loops (imagine you want to turn "8" to “0”. For every 50 generations we applied resolve functions (The more frequently the resolve function is applied, the longer the run time)
 
 ### Parameters:
-max_generation=300
+max_generation=300;
 epsilon= 100 / 150 (different epsilon results in different result)
 
 ### Result of Fitness:
@@ -32,6 +32,44 @@ epsilon= 100 / 150 (different epsilon results in different result)
 |:---|:---|
 |<img width="150" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_194_map.png" />|<img width="150" height="150" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/city_194_fitness.png" />|
 
+## Continuous Optimization:
+### For the 6 functions, all algorithms are from spicy package, the selection of algorithm for each is based on the result of fitness
+
+### Parameters:
+Search Space:  [-100, 100];
+'maxiter': 100;
+'ftol': 1e-05
 
 
+### Result of Fitness:
+ <img width="900" height="100" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/result.png" />
 
+### F1:
+|D=50|D=500|
+|:---|:---|
+|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F1_D50.png" />|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F1_D500.png" />|
+
+### F2:
+|D=50|D=500|
+|:---|:---|
+|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F2_D50.png" />|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F2_D500.png" />|
+
+### F3:
+|D=50|D=500|
+|:---|:---|
+|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F3_D50.png" />|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F3_D500.png" />|
+
+### F4:
+|D=50|D=500|
+|:---|:---|
+|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F4_D50.png" />|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F4_D500.png" />|
+
+### F5:
+|D=50|D=500|
+|:---|:---|
+|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F5_D50.png" />|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F5_D500.png" />|
+
+### F6:
+|D=50|D=500|
+|:---|:---|
+|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F6_D50.png" />|<img width="300" height="600" src="https://github.com/Jinn42/metaheuristics_optim/blob/master/images/F6_D500.png" />|
